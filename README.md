@@ -5,8 +5,8 @@ Giải thích cơ chế Hacker sử dụng mật khẩu rò rỉ từ web nhỏ 
 ## 3. Yêu cầu đầu ra 
 
 **Phân tích tại sao mật khẩu cảm tính lại dễ bị bẻ khóa hơn mật khẩu do máy tính sinh ra.**
--Vì mật khẩu cảm tính làm ta dễ nhớ nhưng cũng tạo cơ hội cho các bot của hacker dễ xâm nhập sau nhiều lần thử khác nhau dẫn dễ dàng bẻ khóa.
--Mật khẩu do máy tính sinh ra là gồm 12 kí tự từ gồm từ in hoa đén in thường lẫn số và các kí tự như @,#,!,... qua đó việc thử chạy bot và đoán ra được là chuyện khó khắn và tốn rất nhiều thời gian.
+- Vì mật khẩu cảm tính làm ta dễ nhớ nhưng cũng tạo cơ hội cho các bot của hacker dễ xâm nhập sau nhiều lần thử khác nhau dẫn dễ dàng bẻ khóa.
+- Mật khẩu do máy tính sinh ra là gồm 12 kí tự từ gồm từ in hoa đén in thường lẫn số và các kí tự như @,#,!,... qua đó việc thử chạy bot và đoán ra được là chuyện khó khắn và tốn rất nhiều thời gian.
 **Sử dụng tiêu chuẩn **AES-256** để giải thích tại sao việc lưu mật khẩu trong Password Manager lại an toàn hơn ghi chép thủ công.**
   | |PASS MANAGER|Ghi chép thủ công|
   |---|---|---|
